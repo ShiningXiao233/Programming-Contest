@@ -6,7 +6,7 @@
 > **良心·科学:** https://glados.rocks/console 
 
 #### Atcoder列表
-> 1. [abc305](https://atcoder.jp/contests/abc305)  sol(A-G)
+> 1. [abc305](https://atcoder.jp/contests/abc305)  sol:A-G
 > 2. [abc309](https://atcoder.jp/contests/abc309)  
 > 
 > 
