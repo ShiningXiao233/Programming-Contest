@@ -1,4 +1,4 @@
-# 退役菜鸡开脑计划
+# 退役菜鸟开脑计划
 
 #### 一些链接
 > **vscode自定义代码补全:**  https://snippet-generator.app/ \
