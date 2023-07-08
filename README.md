@@ -9,7 +9,7 @@
 > | 序号 | 题库链接 | Sol | Time |
 > | ---- | ---- | ---- | ---- | 
 > | 1 | [abc305](https://atcoder.jp/contests/abc305) | A-G | 2023-6-? |  
-> | 2 | [abc309](https://atcoder.jp/contests/abc309) |  ? | 2023-7-8 |
+> | 2 | [abc309](https://atcoder.jp/contests/abc309) | A-F | 2023-7-8 |
 > 
 > 
 
