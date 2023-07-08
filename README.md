@@ -8,7 +8,7 @@
 #### Atcoder列表
 > | 序号 | 图库 | Sol | Time |
 > | ---- | ---- | ---- | ---- | 
-> | 1 | [abc305](https://atcoder.jp/contests/abc305) | A-G | |  
+> | 1 | [abc305](https://atcoder.jp/contests/abc305) | A-G | 2023-6-? |  
 > | 2 | [abc309](https://atcoder.jp/contests/abc309) |  ? | 2023-7-8 |
 > 
 > 
