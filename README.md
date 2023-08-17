@@ -10,7 +10,7 @@
 > | ---- | ---- | ---- | ---- | ---- | 
 > | 1 | [abc305](https://atcoder.jp/contests/abc305) | A-G | 2023-6-? | - |
 > | 2 | [abc309](https://atcoder.jp/contests/abc309) | A-F | 2023-7-8 | G |
-> 
+> | 3 | [abc306](https://atcoder.jp/contests/abc306) | - | 2023-8-17 | A-G |
 > 
 
 #### Codeforces列表
