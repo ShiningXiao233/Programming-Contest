@@ -4,6 +4,8 @@
         "iosfwd": "cpp",
         "string": "cpp",
         "new": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "thread": "cpp",
+        "random": "cpp"
     }
 }
