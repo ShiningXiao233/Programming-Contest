@@ -15,11 +15,23 @@
 > | 5 | [abc317](https://atcoder.jp/contests/abc317) | ABCDE | 2023-8-26 | F[G](https://zhuanlan.zhihu.com/p/652756335) | [图论-霍尔定理](https://www.zhihu.com/tardis/zm/art/460373184) |
 > | 6 | [abc318](https://atcoder.jp/contests/abc318) | ABCDE | 2023-8-26 | FG | [圆方树](https://oi-wiki.org/graph/block-forest) |
 
-
 #### Codeforces列表
 > | 序号 | 题库链接 | Sol | Time |
 > | ---- | ---- | ---- | ---- | 
 > |  |  |  |  |  
 > |  |  |  |  |
+> 
+> 
+
+#### Codeforces - EDU 补题列表
+> | 序号 | 题库链接 | Sol | Time |
+> | ---- | ---- | ---- | ---- | 
+> | 1 | [edu-R7](https://codeforces.com/contest/622) | all | - |  
+> | 2 | [edu-R21](https://codeforces.com/contest/808) | all | - |  
+> | 3 | [edu-R22](https://codeforces.com/contest/813) | all | - |  
+> | 4 | [edu-R23](https://codeforces.com/contest/817) | all | - |  
+> | 5 | [edu-R24](https://codeforces.com/contest/818) | all | - |  
+> | 6 | [edu-R25](https://codeforces.com/contest/825) | all | - |  
+> | 7 | [edu-R26](https://codeforces.com/contest/837) | all | - |  
 > 
 > 
