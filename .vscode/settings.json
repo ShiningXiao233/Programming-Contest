@@ -7,6 +7,8 @@
         "iostream": "cpp",
         "thread": "cpp",
         "random": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "stack": "cpp",
+        "deque": "cpp"
     }
 }
