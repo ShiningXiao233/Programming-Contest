@@ -33,5 +33,5 @@
 > | 5 | [edu-R24](https://codeforces.com/contest/818) | all | - |  
 > | 6 | [edu-R25](https://codeforces.com/contest/825) | all | - |  
 > | 7 | [edu-R26](https://codeforces.com/contest/837) | all | - |  
-> | 8 | [edu-R27](https://codeforces.com/contest/845) | A-E | 2023-12-7 |  
+> | 8 | [edu-R27](https://codeforces.com/contest/845) | all | 2023-12-9 |  
 > 
