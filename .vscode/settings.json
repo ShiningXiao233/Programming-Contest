@@ -9,6 +9,7 @@
         "random": "cpp",
         "ostream": "cpp",
         "stack": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "tuple": "cpp"
     }
 }
