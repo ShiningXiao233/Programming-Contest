@@ -13,11 +13,12 @@ def exec_cmd(info : str, cmd : str):
         exit(0)
 
 if __name__ == '__main__':
-    print(sys.argv)
+    # print(sys.argv)
     exec_cmd("pull", "git pull")
     exec_cmd("add", "git add .")
-    
-    info = time.strftime("%Y-%m-%d-%H:%M:%S", time.localtime())
-    # print(info)
+    if (len(sys.argv) > 1):
+        info = sys.argv[1]
+    else:
+        info = time.strftime("%Y-%m-%d-%H:%M:%S", time.localtime())
     exec_cmd("commit", f"git commit -m {info}")
     exec_cmd("push", "git push")
