@@ -16,6 +16,7 @@
 > | 6 | [abc318](https://atcoder.jp/contests/abc318) | ABCDE | 2023-8-26 | FG | [圆方树](https://oi-wiki.org/graph/block-forest) |
 > | 7 | [abc345](https://atcoder.jp/contests/abc345) | ABCDF | 2024-3-17 | - |  |
 > | 8 | [arc180](https://atcoder.jp/contests/arc180/) | A | 2024-6-29 | B |  |
+> | 9 | [abc363](https://atcoder.jp/contests/abc363/) | A-E | 2024-7-20 | F |  |
 
 #### Codeforces列表
 > | 序号 | 题库链接 | Sol | Time |
