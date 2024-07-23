@@ -11,5 +11,6 @@
         "stack": "cpp",
         "deque": "cpp",
         "tuple": "cpp"
-    }
+    },
+    "C_Cpp.autocompleteAddParentheses": false
 }
