@@ -13,7 +13,6 @@ def exec_cmd(info : str, cmd : str):
         exit(0)
 
 if __name__ == '__main__':
-    # print(sys.argv)
     exec_cmd("pull", "git pull")
     exec_cmd("add", "git add .")
     if (len(sys.argv) > 1):
