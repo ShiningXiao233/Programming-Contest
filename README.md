@@ -7,7 +7,7 @@
 
 #### Atcoder列表
 > | 序号 | 题库链接 | Sol | Time | 补题 | 新知识点 |
-> | ---- | ---- | ---- | ---- | ---- | ---- | 
+> | ---- | ---- | ---- | ---- | ---- | ---- |
 > | 1 | [abc305](https://atcoder.jp/contests/abc305) | A-G | 2023-6-? | - | - |
 > | 2 | [abc309](https://atcoder.jp/contests/abc309) | A-F | 2023-7-8 | G | - |
 > | 3 | [abc306](https://atcoder.jp/contests/abc306) | - | 2023-8-17 | A-G | - |
@@ -20,21 +20,26 @@
 
 #### Codeforces列表
 > | 序号 | 题库链接 | Sol | Time |
-> | ---- | ---- | ---- | ---- | 
-> |  |  |  |  |  
+> | ---- | ---- | ---- | ---- |
+> |  |  |  |  |
 > |  |  |  |  |
 > 
 > 
 
 #### Codeforces - EDU 补题列表
 > | 序号 | 题库链接 | Sol | Time |
-> | ---- | ---- | ---- | ---- | 
-> | 1 | [edu-R7](https://codeforces.com/contest/622) | all | - |  
-> | 2 | [edu-R21](https://codeforces.com/contest/808) | all | - |  
-> | 3 | [edu-R22](https://codeforces.com/contest/813) | all | - |  
-> | 4 | [edu-R23](https://codeforces.com/contest/817) | all | - |  
-> | 5 | [edu-R24](https://codeforces.com/contest/818) | all | - |  
-> | 6 | [edu-R25](https://codeforces.com/contest/825) | all | - |  
-> | 7 | [edu-R26](https://codeforces.com/contest/837) | all | - |  
-> | 8 | [edu-R27](https://codeforces.com/contest/845) | all | 2023-12-9 |  
+> | ---- | ---- | ---- | ---- |
+> | 1 | [edu-R7](https://codeforces.com/contest/622) | all | - |
+> | 2 | [edu-R21](https://codeforces.com/contest/808) | all | - |
+> | 3 | [edu-R22](https://codeforces.com/contest/813) | all | - |
+> | 4 | [edu-R23](https://codeforces.com/contest/817) | all | - |
+> | 5 | [edu-R24](https://codeforces.com/contest/818) | all | - |
+> | 6 | [edu-R25](https://codeforces.com/contest/825) | all | - |
+> | 7 | [edu-R26](https://codeforces.com/contest/837) | all | - |
+> | 8 | [edu-R27](https://codeforces.com/contest/845) | all | 2023-12-9 |
+> | 9 | edu-R28 | all | -         |
+> | 10 | edu-R29 | D-F  | - |
+> | 11 | edu-R30 | all | - |
+> | 12 | edu-R31 | all | 2024-7-25 |
+>
 > 
