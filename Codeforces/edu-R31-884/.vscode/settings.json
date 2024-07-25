@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.config": "shellscript",
+        "iosfwd": "cpp"
+    }
+}
