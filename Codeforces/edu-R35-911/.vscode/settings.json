@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.config": "shellscript",
+        "iostream": "cpp",
+        "tuple": "cpp",
+        "bitset": "cpp",
+        "iosfwd": "cpp"
+    }
+}
