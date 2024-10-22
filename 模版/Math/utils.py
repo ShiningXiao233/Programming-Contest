@@ -1,5 +1,14 @@
 N = 1000
 
+def gcd(a : int, b : int):
+    if b == 0:
+        return a
+    else:
+        return gcd(b, a % b)
+
+def lcm(a : int, b : int):
+    return a * b // gcd(a, b)
+
 Comb = [[0 for _ in range(N)] for _ in range(N)]
 
 def comb_pre(n : int):

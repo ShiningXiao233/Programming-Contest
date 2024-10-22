@@ -39,4 +39,8 @@ int comb(int n, int m) {
     return 1ll * f[n] * rf[n - m] % MOD * rf[m] % MOD;
 }
 
+int Catalan(int n) {
+    return (comb(n * 2, n) - comb(2 * n, n - 1) + MOD) % MOD;
+}
+
 }
