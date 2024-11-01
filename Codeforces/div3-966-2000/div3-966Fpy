@@ -1,0 +1,31 @@
+def sol():
+    n, k = map(int, input().split())
+    inf = int(10**18)
+    dp = [[inf for _ in range(k + 2)] for _ in range(n + 1)]
+    dp[0][0] = 0
+    for i in range(1, n + 1):
+        a, b = map(int, input().split())
+        for c in range(0, k + 2):
+            if dp[i - 1][c] == inf:
+                continue
+            
+            for j in range(0, a + b + 1): # 获得j的贡献
+                if c + j > k + 1: break
+                if a + b - j == 1: continue
+                d = a + b - j
+                aa = min(a, b, d // 2)
+                bb = d - aa
+                m = a * b - aa * bb
+                dp[i][c + j] = min(dp[i][c + j], dp[i - 1][c] + m)
+        # print(dp[i])    
+    dp[n][k] = min(dp[n][k], dp[n][k + 1])
+    print(dp[n][k] if dp[n][k] != inf else -1)
+    pass
+
+if __name__ == '__main__':
+    t = 1
+    t = int(input())
+    while t > 0:
+        sol()
+        t -= 1
+        # break
