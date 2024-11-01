@@ -3,7 +3,7 @@
 using namespace std;
 
 /**
- * 动态开点线段树
+ * 动态开点线段树,模版
  */
 template<typename POSTYPE = int, typename ANSTYPE = int>
 class dynamic_seg_tree
@@ -23,6 +23,9 @@ public:
     dynamic_seg_tree(POSTYPE _l, POSTYPE _r) : l(_l), r(_r), len(_r - _l + 1), 
     lson(nullptr), rson(nullptr) {}
 
+    /**
+     * 非创建初始化
+     */
     void init(POSTYPE _l, POSTYPE _r) {
         l = _l;
         r = _r;
@@ -45,9 +48,22 @@ public:
     void merge_son() {
         
     }
-
+    /**
+     * push_down 可选，判断是否存在下传
+     */
     void push_down() {
 
+    }
+
+    /**
+     * 判断是否需要清除子树
+     */
+    void clear() {
+        if (lson == nullptr) return;
+        if (/* 子节点能够推导出 */) {
+            delete lson;
+            delete rson;
+        }
     }
 
     /** 
@@ -72,6 +88,8 @@ public:
         else if (/* 满足右端点 */) rson->update(/* 参数 */);
         
         merge_son();
+
+        clear();
     }
     /**
      * 查询
