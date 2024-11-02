@@ -43,3 +43,26 @@ class xzlMath( object ):
         rf = xzlMath.rf
         MOD = xzlMath.MOD
         return f[n] * rf[m] % MOD * rf[n - m] % MOD
+
+
+def sol():
+    n = int(input())
+    ans = 0
+    for i in range(1, 2 * n + 2):
+        for b in range(n + 1):
+            pre_in = i - 1 - b
+            if pre_in < 0: break
+            ls_black = max(0, n - i)
+            ls_in = b - pre_in
+            ans += xzlMath.C(min(n, i - 1), pre_in) * xzlMath.C(ls_black, ls_in) * i % xzlMath.MOD
+            ans %= xzlMath.MOD
+    
+    print(ans)
+    pass
+
+
+if __name__ == '__main__':
+    t = int(input())
+    while t > 0:
+        t -= 1
+        sol()
