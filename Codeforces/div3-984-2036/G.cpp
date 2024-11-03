@@ -1,3 +1,8 @@
+/**
+ * 简单二分
+ * 但是存在次数超出的问题
+ */
+
 #include <iostream>
 #include <vector>
 #include <queue>
